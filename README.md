@@ -94,7 +94,6 @@ This project is open-sourced under the [MIT License](LICENSE).
 
 ## 🙌 Acknowledgements
 
-- Inspired by modular agentic architectures (e.g., CrewAI)
 - Inspired by analyzing the "feel" of ChatGPT's language use through lexical patterns.
 
 ---
