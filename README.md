@@ -88,8 +88,25 @@ You can deploy this app easily to:
 
 ## 📜 License
 
-MIT License
+This project is open-sourced under the [MIT License](LICENSE).
 
 ---
 
-Inspired by analyzing the "feel" of ChatGPT's language use through lexical patterns.
+## 🙌 Acknowledgements
+
+- Inspired by modular agentic architectures (e.g., CrewAI)
+- Inspired by analyzing the "feel" of ChatGPT's language use through lexical patterns.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please fork the repo and create a pull request, or open an issue to discuss what you’d like to change.
+
+---
+
+## 📬 Contact
+
+For questions or suggestions, reach out to me at [soharab.hossain@gmail.com] or connect via [LinkedIn](https://www.linkedin.com/in/soharab).
+
+
