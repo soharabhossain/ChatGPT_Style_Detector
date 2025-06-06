@@ -39,17 +39,17 @@ git clone https://github.com/soharabhossain/chatgpt_style_detector.git
 cd chatgpt_style_detector
 ```
 
-2. Install dependencies:
+### 2. Install dependencies:
     ```bash
     pip install -r requirements.txt
     ```
 
-3. Run the app:
+### 3. Run the app:
     ```bash
     streamlit run app.py
     ```
 
-4. Open in your browser at `http://localhost:8501`
+### 4. Open in your browser at `http://localhost:8501`
 
 ## 🧪 Sample Style Words
 
