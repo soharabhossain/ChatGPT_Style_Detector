@@ -35,8 +35,8 @@ chatgpt_style_detector/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/soharabhossain/chatgpt_style_detector.git
-cd chatgpt_style_detector
+git clone https://github.com/soharabhossain/ChatGPT_Style_Detector.git
+cd ChatGPT_Style_Detector
 ```
 
 ### 2. Install dependencies:
