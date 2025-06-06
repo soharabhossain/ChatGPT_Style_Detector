@@ -24,6 +24,8 @@ chatgpt_style_detector/
 ├── style_words.txt         # Sample style vocabulary
 ├── text_file_1.txt         # Sample text file 1
 └── text_file_2.txt         # Sample text file 2
+└── Dockerfile              # Build the project with Docker
+
 ```
 
 ## 🚀 How to Run
