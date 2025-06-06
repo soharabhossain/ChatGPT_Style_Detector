@@ -65,6 +65,12 @@ docker build -t chatgpt-style-detector .
 docker run -p 8501:8501 chatgpt-style-detector
 ```
 
+## 🖼 App Screenshot
+
+![Streamlit UI Screenshot](assets/image1.png)
+![Streamlit UI Screenshot](assets/image2.png)
+
+
 ## 📦 Deployment
 
 You can deploy this app easily to:
