@@ -32,17 +32,24 @@ chatgpt_style_detector/
 
 ## 🚀 How to Run
 
-1. Install dependencies:
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/soharabhossain/chatgpt_style_detector.git
+cd chatgpt_style_detector
+```
+
+2. Install dependencies:
     ```bash
     pip install -r requirements.txt
     ```
 
-2. Run the app:
+3. Run the app:
     ```bash
     streamlit run app.py
     ```
 
-3. Open in your browser at `http://localhost:8501`
+4. Open in your browser at `http://localhost:8501`
 
 ## 🧪 Sample Style Words
 
